@@ -81,7 +81,7 @@
 					<version>3.5.3</version>
 					<configuration>
 						<includes>
-							<include>TestRunner/${TestSuites}</include>
+							<include>TestRunner/${TestSuite}</include>
 						</includes>
 					</configuration>
 				</plugin>
