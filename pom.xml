@@ -81,7 +81,7 @@
 					<version>3.5.3</version>
 					<configuration>
 						<includes>
-							<include>TestRunner/${TestSuite}</include>
+							<include>E2ETestSuite.xml</include>
 						</includes>
 					</configuration>
 				</plugin>
